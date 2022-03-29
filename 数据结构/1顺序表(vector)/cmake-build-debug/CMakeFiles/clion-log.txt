@@ -1,0 +1,4 @@
+"D:\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2021.3.4/bin/ninja/win/ninja.exe" -G Ninja D:\1A-学习笔记\Cpp-Learning\数据结构\1顺序表(vector)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/1A-学习笔记/Cpp-Learning/数据结构/1顺序表(vector)/cmake-build-debug

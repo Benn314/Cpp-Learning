@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1C_int_char_stu_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1C_int_char_stu_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1C_int_char_stu_-Debug-12c96a7fb2ea8ae4b2f8.json",
+					"name" : "1C_int_char_stu_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/1A-学习笔记/Cpp-Learning/数据结构/1顺序表C(int char stu)/cmake-build-debug",
+		"source" : "D:/1A-学习笔记/Cpp-Learning/数据结构/1顺序表C(int char stu)"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
